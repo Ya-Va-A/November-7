@@ -1,0 +1,16 @@
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.GlobalUsings.g.cs
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.csproj.AssemblyReference.cache
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.AssemblyInfoInputs.cache
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.AssemblyInfo.cs
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.csproj.CoreCompileInputs.cache
+/Users/mac/Семинар 7.11.21/Задачки/bin/Debug/net6.0/Задачки
+/Users/mac/Семинар 7.11.21/Задачки/bin/Debug/net6.0/Задачки.deps.json
+/Users/mac/Семинар 7.11.21/Задачки/bin/Debug/net6.0/Задачки.runtimeconfig.json
+/Users/mac/Семинар 7.11.21/Задачки/bin/Debug/net6.0/Задачки.dll
+/Users/mac/Семинар 7.11.21/Задачки/bin/Debug/net6.0/ref/Задачки.dll
+/Users/mac/Семинар 7.11.21/Задачки/bin/Debug/net6.0/Задачки.pdb
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.dll
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/ref/Задачки.dll
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.pdb
+/Users/mac/Семинар 7.11.21/Задачки/obj/Debug/net6.0/Задачки.genruntimeconfig.cache
